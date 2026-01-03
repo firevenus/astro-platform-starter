@@ -23,8 +23,4 @@ pnpm-debug.log*
 # Local Netlify folder
 .netlify
 
-PUBLIC_SANITY_PROJECT_ID="s7y2umuq"
-PUBLIC_SANITY_DATASET="production"
-# 如果模板支持预览模式，可能还需要 API Token
-SANITY_API_READ_TOKEN="skR0a4mL6Eq1lJXzYp77AgHbLOhcBC6ONRO52GF9sOyoJPly99OKrRI3xtVXdLi6ikgiC4GWCHgtrDybHNmZpj2djXExz87mzCt3DCXE0f13QZm4MjdtxR1Yp7X8vxC5fxH4e2amgaNmdBLKVvsIVESnjgrxkziIRFmCwgZcJzRjLuIACnmN"
 
